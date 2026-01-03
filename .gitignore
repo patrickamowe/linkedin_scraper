@@ -1,0 +1,11 @@
+# Byte-compiled
+__pycache__/
+
+# Virtual environment
+.venv
+
+# Pycharm setting folder
+.idea
+
+# Environment Variable
+.env
